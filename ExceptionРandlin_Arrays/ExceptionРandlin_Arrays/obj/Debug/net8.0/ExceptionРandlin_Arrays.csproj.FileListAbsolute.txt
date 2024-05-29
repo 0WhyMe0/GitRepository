@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\bin\Debug\net8.0\ExceptionРandlin_Arrays.exe
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\bin\Debug\net8.0\ExceptionРandlin_Arrays.deps.json
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\bin\Debug\net8.0\ExceptionРandlin_Arrays.runtimeconfig.json
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\bin\Debug\net8.0\ExceptionРandlin_Arrays.dll
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\bin\Debug\net8.0\ExceptionРandlin_Arrays.pdb
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.AssemblyInfo.cs
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.dll
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\refint\ExceptionРandlin_Arrays.dll
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.pdb
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ExceptionРandlin_Arrays.genruntimeconfig.cache
+C:\Users\vpele\source\repos\ExceptionРandlin_Arrays\ExceptionРandlin_Arrays\obj\Debug\net8.0\ref\ExceptionРandlin_Arrays.dll

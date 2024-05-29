@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.AssemblyInfo.cs
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\in\in\bin\Debug\net8.0\in.exe
+C:\Users\vpele\source\repos\in\in\bin\Debug\net8.0\in.deps.json
+C:\Users\vpele\source\repos\in\in\bin\Debug\net8.0\in.runtimeconfig.json
+C:\Users\vpele\source\repos\in\in\bin\Debug\net8.0\in.dll
+C:\Users\vpele\source\repos\in\in\bin\Debug\net8.0\in.pdb
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.dll
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\refint\in.dll
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.pdb
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\in.genruntimeconfig.cache
+C:\Users\vpele\source\repos\in\in\obj\Debug\net8.0\ref\in.dll

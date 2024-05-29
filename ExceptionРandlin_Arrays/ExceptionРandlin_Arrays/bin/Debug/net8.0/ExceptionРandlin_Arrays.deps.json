@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExceptionРandlin_Arrays/1.0.0": {
+        "runtime": {
+          "ExceptionРandlin_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionРandlin_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

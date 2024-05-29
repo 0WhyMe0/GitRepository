@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\PrimaryConstructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDD59CC-D807-4BBF-84BF-37C1D0643DCE}|PrimaryConstructors\\PrimaryConstructors.csproj|c:\\users\\vpele\\source\\repos\\primaryconstructors\\primaryconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDD59CC-D807-4BBF-84BF-37C1D0643DCE}|PrimaryConstructors\\PrimaryConstructors.csproj|solutionrelative:primaryconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\PrimaryConstructors\\PrimaryConstructors\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryConstructors\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\PrimaryConstructors\\PrimaryConstructors\\Program.cs*",
+              "RelativeToolTip": "PrimaryConstructors\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:50:49.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

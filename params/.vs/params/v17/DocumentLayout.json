@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\params\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB4E9BE-9393-4DA7-8728-8E558394C924}|params\\params.csproj|c:\\users\\vpele\\source\\repos\\params\\params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB4E9BE-9393-4DA7-8728-8E558394C924}|params\\params.csproj|solutionrelative:params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\params\\params\\Program.cs",
+              "RelativeDocumentMoniker": "params\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\params\\params\\Program.cs",
+              "RelativeToolTip": "params\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:52:13.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\bin\Debug\net8.0\GenericMembers_Zad1.exe
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\bin\Debug\net8.0\GenericMembers_Zad1.deps.json
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\bin\Debug\net8.0\GenericMembers_Zad1.runtimeconfig.json
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\bin\Debug\net8.0\GenericMembers_Zad1.dll
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\bin\Debug\net8.0\GenericMembers_Zad1.pdb
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.AssemblyInfo.cs
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.dll
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\refint\GenericMembers_Zad1.dll
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.pdb
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\GenericMembers_Zad1.genruntimeconfig.cache
+C:\Users\vpele\source\repos\GenericMembers_Zad1\GenericMembers_Zad1\obj\Debug\net8.0\ref\GenericMembers_Zad1.dll

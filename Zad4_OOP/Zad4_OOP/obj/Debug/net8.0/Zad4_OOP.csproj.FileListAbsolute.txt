@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\bin\Debug\net8.0\Zad4_OOP.exe
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\bin\Debug\net8.0\Zad4_OOP.deps.json
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\bin\Debug\net8.0\Zad4_OOP.runtimeconfig.json
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\bin\Debug\net8.0\Zad4_OOP.dll
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\bin\Debug\net8.0\Zad4_OOP.pdb
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.AssemblyInfo.cs
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.dll
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\refint\Zad4_OOP.dll
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.pdb
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\Zad4_OOP.genruntimeconfig.cache
+C:\Users\vpele\source\repos\Zad4_OOP\Zad4_OOP\obj\Debug\net8.0\ref\Zad4_OOP.dll

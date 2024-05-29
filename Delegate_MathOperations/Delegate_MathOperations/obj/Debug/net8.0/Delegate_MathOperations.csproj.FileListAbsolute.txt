@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\bin\Debug\net8.0\Delegate_MathOperations.exe
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\bin\Debug\net8.0\Delegate_MathOperations.deps.json
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\bin\Debug\net8.0\Delegate_MathOperations.runtimeconfig.json
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\bin\Debug\net8.0\Delegate_MathOperations.dll
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\bin\Debug\net8.0\Delegate_MathOperations.pdb
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.AssemblyInfo.cs
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.dll
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\refint\Delegate_MathOperations.dll
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.pdb
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\Delegate_MathOperations.genruntimeconfig.cache
+C:\Users\vpele\source\repos\Delegate_MathOperations\Delegate_MathOperations\obj\Debug\net8.0\ref\Delegate_MathOperations.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\GenericMembers_Zad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0864A628-7E2F-463C-96EA-77653190FD6A}|GenericMembers_Zad3\\GenericMembers_Zad3.csproj|c:\\users\\vpele\\source\\repos\\genericmembers_zad3\\genericmembers_zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0864A628-7E2F-463C-96EA-77653190FD6A}|GenericMembers_Zad3\\GenericMembers_Zad3.csproj|solutionrelative:genericmembers_zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0864A628-7E2F-463C-96EA-77653190FD6A}|GenericMembers_Zad3\\GenericMembers_Zad3.csproj|c:\\users\\vpele\\source\\repos\\genericmembers_zad3\\genericmembers_zad3\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0864A628-7E2F-463C-96EA-77653190FD6A}|GenericMembers_Zad3\\GenericMembers_Zad3.csproj|solutionrelative:genericmembers_zad3\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\GenericMembers_Zad3\\GenericMembers_Zad3\\LinkedList.cs",
+              "RelativeDocumentMoniker": "GenericMembers_Zad3\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\GenericMembers_Zad3\\GenericMembers_Zad3\\LinkedList.cs",
+              "RelativeToolTip": "GenericMembers_Zad3\\LinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:01:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\GenericMembers_Zad3\\GenericMembers_Zad3\\Program.cs",
+              "RelativeDocumentMoniker": "GenericMembers_Zad3\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\GenericMembers_Zad3\\GenericMembers_Zad3\\Program.cs",
+              "RelativeToolTip": "GenericMembers_Zad3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:00:08.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

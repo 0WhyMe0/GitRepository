@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\bin\Debug\net8.0\ExceptionРandling_DivisionByZero.exe
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\bin\Debug\net8.0\ExceptionРandling_DivisionByZero.deps.json
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\bin\Debug\net8.0\ExceptionРandling_DivisionByZero.runtimeconfig.json
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\bin\Debug\net8.0\ExceptionРandling_DivisionByZero.dll
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\bin\Debug\net8.0\ExceptionРandling_DivisionByZero.pdb
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.AssemblyInfo.cs
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.dll
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\refint\ExceptionРandling_DivisionByZero.dll
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.pdb
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ExceptionРandling_DivisionByZero.genruntimeconfig.cache
+C:\Users\vpele\source\repos\ExceptionРandling_DivisionByZero\ExceptionРandling_DivisionByZero\obj\Debug\net8.0\ref\ExceptionРandling_DivisionByZero.dll

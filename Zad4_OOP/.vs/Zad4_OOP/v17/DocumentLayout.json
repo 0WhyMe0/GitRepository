@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad4_oop\\zad4_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|solutionrelative:zad4_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad4_oop\\zad4_oop\\shapedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|solutionrelative:zad4_oop\\shapedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad4_oop\\zad4_oop\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|solutionrelative:zad4_oop\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad4_oop\\zad4_oop\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|solutionrelative:zad4_oop\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad4_oop\\zad4_oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477EE4DA-24B3-4214-9AC4-9D8BD366309A}|Zad4_OOP\\Zad4_OOP.csproj|solutionrelative:zad4_oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\ShapeDisplay.cs",
+              "RelativeDocumentMoniker": "Zad4_OOP\\ShapeDisplay.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\ShapeDisplay.cs",
+              "RelativeToolTip": "Zad4_OOP\\ShapeDisplay.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:35:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\IShape.cs",
+              "RelativeDocumentMoniker": "Zad4_OOP\\IShape.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\IShape.cs",
+              "RelativeToolTip": "Zad4_OOP\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:32:31.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Circle.cs",
+              "RelativeDocumentMoniker": "Zad4_OOP\\Circle.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Circle.cs",
+              "RelativeToolTip": "Zad4_OOP\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:29:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Shape.cs",
+              "RelativeDocumentMoniker": "Zad4_OOP\\Shape.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Shape.cs",
+              "RelativeToolTip": "Zad4_OOP\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:27:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Zad4_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad4_OOP\\Zad4_OOP\\Program.cs",
+              "RelativeToolTip": "Zad4_OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:26:11.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\Exception\u0420andling_DivisionByZero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437B8D32-2CF1-41AC-957D-7DCB385E8FF9}|Exception\u0420andling_DivisionByZero\\Exception\u0420andling_DivisionByZero.csproj|c:\\users\\vpele\\source\\repos\\exception\u0440andling_divisionbyzero\\exception\u0440andling_divisionbyzero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437B8D32-2CF1-41AC-957D-7DCB385E8FF9}|Exception\u0420andling_DivisionByZero\\Exception\u0420andling_DivisionByZero.csproj|solutionrelative:exception\u0440andling_divisionbyzero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Exception\u0420andling_DivisionByZero\\Exception\u0420andling_DivisionByZero\\Program.cs",
+              "RelativeDocumentMoniker": "Exception\u0420andling_DivisionByZero\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Exception\u0420andling_DivisionByZero\\Exception\u0420andling_DivisionByZero\\Program.cs",
+              "RelativeToolTip": "Exception\u0420andling_DivisionByZero\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:23:13.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

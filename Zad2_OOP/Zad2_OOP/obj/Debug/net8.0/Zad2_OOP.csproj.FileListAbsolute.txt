@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\bin\Debug\net8.0\Zad2_OOP.exe
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\bin\Debug\net8.0\Zad2_OOP.deps.json
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\bin\Debug\net8.0\Zad2_OOP.runtimeconfig.json
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\bin\Debug\net8.0\Zad2_OOP.dll
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\bin\Debug\net8.0\Zad2_OOP.pdb
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.AssemblyInfo.cs
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.dll
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\refint\Zad2_OOP.dll
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.pdb
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\Zad2_OOP.genruntimeconfig.cache
+C:\Users\vpele\source\repos\Zad2_OOP\Zad2_OOP\obj\Debug\net8.0\ref\Zad2_OOP.dll

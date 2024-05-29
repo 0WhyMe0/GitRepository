@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad3_oop\\zad3_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|solutionrelative:zad3_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad3_oop\\zad3_oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|solutionrelative:zad3_oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad3_oop\\zad3_oop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458E9722-CBCD-4E78-B808-95222A6B167C}|Zad3_OOP\\Zad3_OOP.csproj|solutionrelative:zad3_oop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Car.cs",
+              "RelativeDocumentMoniker": "Zad3_OOP\\Car.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Car.cs",
+              "RelativeToolTip": "Zad3_OOP\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:20:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Zad3_OOP\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Vehicle.cs",
+              "RelativeToolTip": "Zad3_OOP\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:18:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Zad3_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad3_OOP\\Zad3_OOP\\Program.cs",
+              "RelativeToolTip": "Zad3_OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:17:13.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

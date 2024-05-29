@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\Web_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\migrations\\20240518122725_addcategorytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\migrations\\20240518122725_addcategorytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\datab\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\datab\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\views\\categorycontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\views\\categorycontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|c:\\users\\vpele\\source\\repos\\web_1\\web_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF984908-4DBB-4182-AE9A-31054A8DD0C8}|Web_1\\Web_1.csproj|solutionrelative:web_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Program.cs",
+              "RelativeDocumentMoniker": "Web_1\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Program.cs",
+              "RelativeToolTip": "Web_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:35:15.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240518122725_addCategoryToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Migrations\\20240518122725_addCategoryToDatabase.cs",
+              "RelativeDocumentMoniker": "Web_1\\Migrations\\20240518122725_addCategoryToDatabase.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Migrations\\20240518122725_addCategoryToDatabase.cs",
+              "RelativeToolTip": "Web_1\\Migrations\\20240518122725_addCategoryToDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:27:26.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Views\\CategoryController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_1\\Views\\CategoryController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Views\\CategoryController1\\Index.cshtml",
+              "RelativeToolTip": "Web_1\\Views\\CategoryController1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:05:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:56:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController1.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Controllers\\CategoryController1.cs",
+              "RelativeDocumentMoniker": "Web_1\\Controllers\\CategoryController1.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Controllers\\CategoryController1.cs",
+              "RelativeToolTip": "Web_1\\Controllers\\CategoryController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:58:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\DataB\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "Web_1\\DataB\\DataDbContext.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\DataB\\DataDbContext.cs",
+              "RelativeToolTip": "Web_1\\DataB\\DataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:23:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_1\\appsettings.json",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\appsettings.json",
+              "RelativeToolTip": "Web_1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T08:52:05.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Web_1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Web_1\\Web_1\\Models\\Category.cs",
+              "RelativeToolTip": "Web_1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:51:15.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

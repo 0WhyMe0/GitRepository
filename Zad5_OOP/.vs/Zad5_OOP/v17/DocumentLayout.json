@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad5_oop\\zad5_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|solutionrelative:zad5_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad5_oop\\zad5_oop\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|solutionrelative:zad5_oop\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|c:\\users\\vpele\\source\\repos\\zad5_oop\\zad5_oop\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A3C1FE-C3EB-42F0-85C3-8BD6833E374A}|Zad5_OOP\\Zad5_OOP.csproj|solutionrelative:zad5_oop\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Dog.cs",
+              "RelativeDocumentMoniker": "Zad5_OOP\\Dog.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Dog.cs",
+              "RelativeToolTip": "Zad5_OOP\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:49:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Animal.cs",
+              "RelativeDocumentMoniker": "Zad5_OOP\\Animal.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Animal.cs",
+              "RelativeToolTip": "Zad5_OOP\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:47:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Zad5_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\vpele\\source\\repos\\Zad5_OOP\\Zad5_OOP\\Program.cs",
+              "RelativeToolTip": "Zad5_OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:47:16.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

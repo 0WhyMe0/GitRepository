@@ -1,0 +1,53 @@
+﻿07:42 03.96 KursWeb (Web server): Hot reload session started
+07:42 09.59 KursWeb: CSS Hot Reload bcaf3216-1a77-4b8a-983a-3743ee3c3133: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 09.59 KursWeb: CSS Hot Reload bcaf3216-1a77-4b8a-983a-3743ee3c3133: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 14.34 KursWeb: CSS Hot Reload b4eb4bbf-29ee-4094-a868-70f61e591eac: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 14.34 KursWeb: CSS Hot Reload b4eb4bbf-29ee-4094-a868-70f61e591eac: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 52.26 KursWeb: CSS Hot Reload 9a48b6d7-4756-49aa-8ed5-fe2d46da8762: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 52.27 KursWeb: CSS Hot Reload 9a48b6d7-4756-49aa-8ed5-fe2d46da8762: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 55.80 KursWeb: CSS Hot Reload 02b55632-cb4e-4619-85ef-4ac67e5173a2: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 55.80 KursWeb: CSS Hot Reload 02b55632-cb4e-4619-85ef-4ac67e5173a2: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 56.83 KursWeb: CSS Hot Reload c9ffb16b-b99e-464f-9915-e77db8a5f251: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 56.83 KursWeb: CSS Hot Reload c9ffb16b-b99e-464f-9915-e77db8a5f251: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 57.56 KursWeb: CSS Hot Reload 6c608732-47df-4b8e-bb31-effd37cbba4f: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 57.56 KursWeb: CSS Hot Reload 6c608732-47df-4b8e-bb31-effd37cbba4f: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 57.98 KursWeb: CSS Hot Reload 1552294d-d2e4-46b5-bdf8-563b42489394: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 57.98 KursWeb: CSS Hot Reload 1552294d-d2e4-46b5-bdf8-563b42489394: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 58.82 KursWeb: CSS Hot Reload a2f1adc5-c22c-4cca-b7fd-505533f99c72: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 58.82 KursWeb: CSS Hot Reload a2f1adc5-c22c-4cca-b7fd-505533f99c72: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 58.99 KursWeb: CSS Hot Reload a1266ce5-b18f-4e51-bd2a-5a5ff51632fa: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 59.00 KursWeb: CSS Hot Reload a1266ce5-b18f-4e51-bd2a-5a5ff51632fa: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 59.17 KursWeb: CSS Hot Reload 8a92494d-59b5-4bc4-a9a4-6f4815f3f6ed: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 59.17 KursWeb: CSS Hot Reload 8a92494d-59b5-4bc4-a9a4-6f4815f3f6ed: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:42 59.70 KursWeb: CSS Hot Reload 4d593841-47f6-482c-97a7-571413615410: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:42 59.70 KursWeb: CSS Hot Reload 4d593841-47f6-482c-97a7-571413615410: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:43 01.79 KursWeb: CSS Hot Reload d4f422ce-cd7c-4589-956b-952f4ff0418e: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:43 01.79 KursWeb: CSS Hot Reload d4f422ce-cd7c-4589-956b-952f4ff0418e: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:48 40.51 KursWeb (Web server): Sending updates to running application
+07:48 40.52 Changes were successfully applied.
+07:48 40.91 KursWeb (Web server): Updates applied successfully
+07:48 40.91 KursWeb: Refreshing web browser
+07:48 41.05 KursWeb: CSS Hot Reload 86bde649-f1d1-4d66-a762-c7e6004a1cf3: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:48 41.06 KursWeb: CSS Hot Reload 86bde649-f1d1-4d66-a762-c7e6004a1cf3: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:49 53.69 KursWeb (Web server): Sending updates to running application
+07:49 53.69 Changes were successfully applied.
+07:49 53.70 KursWeb (Web server): Updates applied successfully
+07:49 53.70 KursWeb: Refreshing web browser
+07:49 54.16 KursWeb: CSS Hot Reload eea96c31-d323-476c-bf73-1b4efee2d5c3: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:49 54.16 KursWeb: CSS Hot Reload eea96c31-d323-476c-bf73-1b4efee2d5c3: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 10.93 [Error] Microsoft.CodeAnalysis.Razor.Compiler.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Category_Create_cshtml.g.cs (line 63): error ENC0032: Moving field requires restarting the application.
+07:50 10.93 Changes could not be applied. Restarting the application is required.
+07:50 28.58 KursWeb: CSS Hot Reload 5cbf384a-305c-410e-b21f-69d9486d6986: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 28.58 KursWeb: CSS Hot Reload 5cbf384a-305c-410e-b21f-69d9486d6986: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 29.44 KursWeb: CSS Hot Reload 62b6cd35-ba41-4bc8-bf04-da4ff98e2a92: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 29.44 KursWeb: CSS Hot Reload 62b6cd35-ba41-4bc8-bf04-da4ff98e2a92: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 33.08 KursWeb: CSS Hot Reload dd8a2965-52e0-402c-96bd-005b4d679977: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 33.08 KursWeb: CSS Hot Reload dd8a2965-52e0-402c-96bd-005b4d679977: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 34.36 KursWeb: CSS Hot Reload 35e4bf64-a684-400e-91ec-926baa0630d4: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 34.36 KursWeb: CSS Hot Reload 35e4bf64-a684-400e-91ec-926baa0630d4: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 34.48 KursWeb: CSS Hot Reload 313994ce-8978-4cf6-b8a4-201e4a582113: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 34.48 KursWeb: CSS Hot Reload 313994ce-8978-4cf6-b8a4-201e4a582113: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:50 34.63 KursWeb: CSS Hot Reload b591ee31-c731-4e7d-9075-57eac0aff412: Tracking https://localhost:7077/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0
+07:50 34.63 KursWeb: CSS Hot Reload b591ee31-c731-4e7d-9075-57eac0aff412: Tracking https://localhost:7077/KursWeb.styles.css?v=ctrs9RDDi00YaMwLxCH_Br05t-I-8U9IdmCqWuGSLdc
+07:51 03.10 [Error] Microsoft.CodeAnalysis.Razor.Compiler.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Category_Create_cshtml.g.cs (line 63): error ENC0032: Moving field requires restarting the application.
+07:51 03.10 Changes could not be applied. Restarting the application is required.

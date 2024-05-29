@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\params\params\bin\Debug\net8.0\params.exe
+C:\Users\vpele\source\repos\params\params\bin\Debug\net8.0\params.deps.json
+C:\Users\vpele\source\repos\params\params\bin\Debug\net8.0\params.runtimeconfig.json
+C:\Users\vpele\source\repos\params\params\bin\Debug\net8.0\params.dll
+C:\Users\vpele\source\repos\params\params\bin\Debug\net8.0\params.pdb
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.AssemblyInfo.cs
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.dll
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\refint\params.dll
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.pdb
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\params.genruntimeconfig.cache
+C:\Users\vpele\source\repos\params\params\obj\Debug\net8.0\ref\params.dll

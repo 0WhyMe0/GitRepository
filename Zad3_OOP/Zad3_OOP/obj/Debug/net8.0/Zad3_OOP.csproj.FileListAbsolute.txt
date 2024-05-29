@@ -1,0 +1,14 @@
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\bin\Debug\net8.0\Zad3_OOP.exe
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\bin\Debug\net8.0\Zad3_OOP.deps.json
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\bin\Debug\net8.0\Zad3_OOP.runtimeconfig.json
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\bin\Debug\net8.0\Zad3_OOP.dll
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\bin\Debug\net8.0\Zad3_OOP.pdb
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.AssemblyInfoInputs.cache
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.AssemblyInfo.cs
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.dll
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\refint\Zad3_OOP.dll
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.pdb
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\Zad3_OOP.genruntimeconfig.cache
+C:\Users\vpele\source\repos\Zad3_OOP\Zad3_OOP\obj\Debug\net8.0\ref\Zad3_OOP.dll
